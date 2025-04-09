@@ -1,0 +1,4 @@
+numpy==2.2.4
+opencv-python==4.11.0.86
+psutil==7.0.0
+v4l2capture @ git+https://github.com/gebart/python-v4l2capture.git@dc09a8c5f5b5c12a5cb1cec96c2886bcaa982b25
